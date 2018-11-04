@@ -4,11 +4,11 @@
 
 >LinearLayoutManager实现的效果
 
-![LinearLayoutManager实现效果](http://img.blog.csdn.net/20171229093308200?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd3V5dXhpbmcyNA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![LinearLayoutManager实现效果](https://upload-images.jianshu.io/upload_images/9182331-02fb5cc589cded18.gif?imageMogr2/auto-orient/)
 
 >GridLayoutManager实现的效果，要固定在顶部的 item要占据整个一行
 
-![GridLayoutManager实现效果](http://img.blog.csdn.net/20171229094035994?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd3V5dXhpbmcyNA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![GridLayoutManager实现效果](https://upload-images.jianshu.io/upload_images/9182331-76d50a9dd3cc53b5.gif?imageMogr2/auto-orient/)
 
 &#160; &#160; &#160; &#160;接下来就是实现过程了
 
