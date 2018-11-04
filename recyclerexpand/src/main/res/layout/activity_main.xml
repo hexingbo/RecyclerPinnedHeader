@@ -6,7 +6,7 @@
     android:fitsSystemWindows="true"
     android:background="@drawable/bg_common">
 
-    <com.tuacy.pinnedheader.PinnedHeaderRecyclerView
+    <com.hxb.pinnedheader.PinnedHeaderRecyclerView
         android:id="@+id/recycler_order_list"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
